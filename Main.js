@@ -10,7 +10,7 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
     setTimeout(function(){
-        $('#content').prepend('<p>Hello!<br>سلام!<br>Salut!<br>Hallo!<br>你好!<br>Bonjour<br>Merhaba!<br>Namaste<br>Здравствуйте!<br>Hej!<br>adaab! ');
+        $('#content').prepend('<p>Hello!<br>Bonjour<br> ');
 
     },5000);});/*
 $(document).ready(function(){
